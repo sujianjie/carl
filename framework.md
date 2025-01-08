@@ -152,6 +152,16 @@ public class TouchService extends ITouchService.Stub
 
 ​	instantiate()调用BinderService 的instantiate()函数，主要作用就是将TestService注册到ServiceManager里面
 
+wms
+
+SplashScreen是应用启动的闪屏页，显示应用logo
+
+android studio
+
+ctrl + H 类继承关系   Alt + 7 类结构信息
+
+
+
 ## Linux
 
 1、搜索文件 find -name xxx.java
