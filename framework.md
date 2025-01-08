@@ -152,6 +152,10 @@ public class TouchService extends ITouchService.Stub
 
 ​	instantiate()调用BinderService 的instantiate()函数，主要作用就是将TestService注册到ServiceManager里面
 
+git
+
+git pull origin main/master  |   git push origin main/master 
+
 wms
 
 SplashScreen是应用启动的闪屏页，显示应用logo
